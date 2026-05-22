@@ -1,0 +1,14 @@
+**/.git
+**/.vs
+**/.vscode
+**/.idea
+**/bin
+**/obj
+**/out
+**/*.user
+**/*.suo
+**/Dockerfile*
+**/docker-compose*
+**/.dockerignore
+**/agent-transcripts
+**/terminals
